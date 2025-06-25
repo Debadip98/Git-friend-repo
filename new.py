@@ -1,0 +1,1 @@
+A="Hi this my friend new repo"
